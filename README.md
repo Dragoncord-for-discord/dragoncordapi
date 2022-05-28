@@ -1,2 +1,2 @@
 # dragoncordapi
-Official port Dragoncord to other clients
+Official port Dragoncord API to other clients
